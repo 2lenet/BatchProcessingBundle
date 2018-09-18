@@ -1,5 +1,5 @@
 {
-    "name": "2lenet/bacth-processing-bundle",
+    "name": "2lenet/batch-processing-bundle",
     "type": "symfony-bundle",
     "description": "Batch processing",
     "keywords": ["batch"],
